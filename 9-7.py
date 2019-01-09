@@ -11,3 +11,6 @@ ave_rev = rev / day
 print(ave_rev)
 
 in_file.close()
+
+print(chanmu)
+print(question)
