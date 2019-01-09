@@ -1,0 +1,26 @@
+@font-face {
+    src: url("fonts/Helvetica.ttf");
+    font-family: "Helvetica";
+}
+
+body {
+    text-align: center;
+}
+#logo {
+    margin-top: 80px;
+ }
+
+.menu {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+a {
+    font-family: Helvetica;
+    font-size: 16px;
+    color: rgb(88,89,91);
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
