@@ -1,0 +1,89 @@
+@font-face {
+  src: url("fonts/BMJUA_otf.otf");
+  font-family: "JUA";
+}
+
+body {
+  background-color: #F0E8D9;
+}
+* {
+  box-sizing: border-box;
+  font-family: "JUA";
+  text-align: center;
+  color: #58595B;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 64px;
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  text-align: left;
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+.pay {
+  color: #0000EE;
+  font-size: 16px;
+}
+
+
+.header {
+  margin: 75px 0px;
+}
+
+.name {
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
+#chicken {
+  background-color: white;
+  border-radius: 10px;
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  overflow: hidden;
+}
+
+#sushi {
+  background-color: white;
+  border-radius: 10px;
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  overflow: hidden;
+}
+
+#burger {
+  background-color: white;
+  border-radius: 10px;
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  overflow: hidden;
+}
+
+#korean {
+  background-color: white;
+  border-radius: 10px;
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  overflow: hidden;
+}
+
+.say {
+  padding: 20px;
+}
