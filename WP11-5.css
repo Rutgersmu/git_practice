@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+}
+
+/* 전체 */
+
+div {
+    height: 200px;
+    float: left;
+}
+
+/* 개별 */
+
+#red {
+    background-color: red;
+    width: 100%;
+}
+
+#orange {
+    background-color: orange;
+    width: 25%;
+
+}
+
+#yellow {
+    background-color: yellow;
+    width: 50%;
+}
+
+#green {
+    background-color: green;
+    width: 25%;
+}
+
+#blue {
+    background-color: blue;
+    width: 50%;
+}
+
+#indigo {
+    background-color: indigo;
+    width: 50%;
+}
+
+#purple {
+    background-color: purple;
+    width: 100%;
+}
